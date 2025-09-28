@@ -147,8 +147,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
                             <h2>Contact</h2>
 
                             <ul>
-                                <li><i class="fa fa-phone"></i><a href="tel:+917204049034">7204049034</a></li>
-                                <li><i class="fa fa-envelope"></i><a href="mailto:houtarouoriki080@gmail.com">virtauldonation@gmail.com</a></li>
+                                <li><i class="fa fa-phone"></i><a href="tel:+91XXXXXXXXXX">+91XXXXXXXXXX</a></li>
+                                <li><i class="fa fa-envelope"></i><a href="mailto:yourgamil@gmail.com">virtauldonation@gmail.com</a></li>
                                 <li><i class="fa fa-map-marker"></i><span>Mysuru-0821, Karnataka, India</span></li>
                             </ul>
                         </div><!-- .foot-contact -->
